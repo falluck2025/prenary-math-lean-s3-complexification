@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22719535.svg)](https://doi.org/10.5281/zenodo.22719535)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22815027.svg)](https://doi.org/10.5281/zenodo.22815027)
 
 # 偏元数学 · Day24 · 升域与径向/角向分解（S-005 对应）· Lean 4 形式化验证
 
@@ -6,7 +6,7 @@
 
 本文工作尚未得到独立实验验证，全部结论均为形式化验证层面的初步结果。
 
-> **DOI**：待回填。本仓库为偏元数学新线 S2 的延续，上承 Day23 `prenary-math-lean-s2-residual-scaling`（[10.5281/zenodo.22813242](https://doi.org/10.5281/zenodo.22813242)）与 Day22 `prenary-math-lean-s2-action-foundation`（[10.5281/zenodo.22719535](https://doi.org/10.5281/zenodo.22719535)）。
+> **DOI**：DOI: 10.5281/zenodo.22815027。本仓库为偏元数学新线 S2 的延续，上承 Day23 `prenary-math-lean-s2-residual-scaling`（[10.5281/zenodo.22813242](https://doi.org/10.5281/zenodo.22813242)）与 Day22 `prenary-math-lean-s2-action-foundation`（[10.5281/zenodo.22719535](https://doi.org/10.5281/zenodo.22719535)）。
 
 ## 摘要
 
