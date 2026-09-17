@@ -104,9 +104,9 @@ def accum (εs : ℕ → ℂ) (N : ℕ) : ℂ := ∑ k ∈ Finset.range N, εs k
 
 | 文件 | 内核 | Comparator | Challenge Hash（锁挑战） | 代码 SHA256（锁解答） |
 |:--|:--|:--|:--|:--|
-| Day24-01 | No goals + All Messages (0) | ✅ Successfully validated | `dd5ef24827b64513b61f098267b4544a6d9109653fdd93cf519b0c8a6d92aed6` | 同左 |
-| Day24-02 | No goals + All Messages (0) | ✅ Successfully validated | `3d459819183b2ccc448100cdb07da5cbf3317f85177720d72a45bed78bc8a389` | 同左 |
-| Day24-03 | No goals + All Messages (0) | ✅ Successfully validated | `c2b076c972cdb442b6e016ab338f7a38b5d1671f78edea0daef7e2216f2b0914` | 同左 |
+| Day24-01 | No goals + All Messages (0) | ✅ Successfully validated | `a2674001d8ee2a984dfd177ba502162e5ee749484214f9ce6a97b99a83bf8e0b` | 同左 |
+| Day24-02 | No goals + All Messages (0) | ✅ Successfully validated | `410f90cf6319f9520f521469982563c06079a3e07448985ec71c3beaa98c2c7b` | 同左 |
+| Day24-03 | No goals + All Messages (0) | ✅ Successfully validated | `1c12ae592c49349d256b471b7460633028431ccee9139274527de0df7d308d21` | 同左 |
 | Day24-04 | No goals + All Messages (0) | ✅ Successfully validated | `3abbddec369a5e954ed31b93548edac953ab03a87e2fb9445c774ddba0a22f30` | 同左 |
 
 - **平台**：L∃∀N Comparator Live (Experimental) · Latest Mathlib with Lean v4.35.0
@@ -153,6 +153,6 @@ CC BY-NC-ND 4.0（署名-非商业-禁止演绎）
 - **抬头范式**：`import Mathlib` 之后 + `/-!`（模块文档）。
 - **枢纽说明**：升域（ε: ℝ→ℂ）是 Day23→Day24 的分水岭；本仓同时承载"升域线"（01/02）与"S-005 分解骨架"（03/04）。
 - **待办**：GitHub 建仓 → 上传（4 `.lean` + README + LICENSE + `evidence/`）→ Release v1.0 → Zenodo DOI → 回填本 README。
-- **哈希证据链**：01/02/03 抬头回填 Day23 的 DOI 后重跑；04 首跑修正后重跑。
+- **哈希证据链**：四份的落盘 SHA256 与当日二次验证的 Challenge Hash 一致（Day24-04 首跑修正一处 `No goals` 后通过）。
 
 — 老陈与AI的深夜实验室 发布 请笑纳 —
