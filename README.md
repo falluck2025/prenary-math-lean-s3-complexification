@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22719535.svg)](https://doi.org/10.5281/zenodo.22719535)
+
 # 偏元数学 · Day24 · 升域与径向/角向分解（S-005 对应）· Lean 4 形式化验证
 
 ## Prenary Mathematics · Day24 · Domain Lifting (ε: ℝ→ℂ) and Radial/Angular Decomposition · Lean 4 Formal Verification
